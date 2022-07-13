@@ -1,0 +1,4 @@
+outs:
+- md5: d56c4372da7222f0f81d461e657a232c
+  size: 311
+  path: pattern.b.py
